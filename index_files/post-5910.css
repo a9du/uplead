@@ -1,0 +1,61 @@
+.elementor-5910 .elementor-element.elementor-element-13094ea > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-5910 .elementor-element.elementor-element-13094ea .elementor-repeater-item-11f3cc9.jet-parallax-section__layout .jet-parallax-section__image{background-size:auto;}.elementor-5910 .elementor-element.elementor-element-6c97007 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-5910 .elementor-element.elementor-element-ffdba61{text-align:left;}.elementor-5910 .elementor-element.elementor-element-ffdba61 img{width:80px;}.elementor-5910 .elementor-element.elementor-element-c47438c .elementor-heading-title{color:#091D30;font-family:"Gilroy", Sans-serif;font-size:44px;font-weight:700;line-height:1.2em;}.elementor-5910 .elementor-element.elementor-element-c47438c > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-5910 .elementor-element.elementor-element-ceb3ecb{text-align:left;color:#69727A;font-size:20px;line-height:1.3em;}.elementor-5910 .elementor-element.elementor-element-ceb3ecb > .elementor-widget-container{margin:0px 0px -37px 0px;padding:0px 0px 0px 0px;}.elementor-5910 .elementor-element.elementor-element-25abc2b:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-5910 .elementor-element.elementor-element-25abc2b > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-5910 .elementor-element.elementor-element-25abc2b > .elementor-element-populated{border-style:solid;border-width:1px 1px 1px 1px;border-color:rgba(211, 222, 225, 0.88);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 0px 0px 40px;--e-column-margin-right:0px;--e-column-margin-left:40px;}.elementor-5910 .elementor-element.elementor-element-25abc2b > .elementor-element-populated, .elementor-5910 .elementor-element.elementor-element-25abc2b > .elementor-element-populated > .elementor-background-overlay, .elementor-5910 .elementor-element.elementor-element-25abc2b > .elementor-background-slideshow{border-radius:16px 16px 16px 16px;}.elementor-5910 .elementor-element.elementor-element-25abc2b > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5910 .elementor-element.elementor-element-25abc2b > .elementor-element-populated > .elementor-widget-wrap{padding:32px 40px 32px 40px;}.elementor-5910 .elementor-element.elementor-element-13094ea{padding:40px 24px 80px 24px;}@media(max-width:920px){.elementor-5910 .elementor-element.elementor-element-6c97007 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-5910 .elementor-element.elementor-element-25abc2b > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}}@media(max-width:767px){.elementor-5910 .elementor-element.elementor-element-6c97007 > .elementor-element-populated{margin:0px 0px 24px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-5910 .elementor-element.elementor-element-ffdba61{text-align:center;}.elementor-5910 .elementor-element.elementor-element-c47438c{text-align:left;}.elementor-5910 .elementor-element.elementor-element-c47438c .elementor-heading-title{font-size:35px;line-height:50px;}.elementor-5910 .elementor-element.elementor-element-c47438c > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-5910 .elementor-element.elementor-element-ceb3ecb{text-align:left;font-size:16px;}.elementor-5910 .elementor-element.elementor-element-ceb3ecb > .elementor-widget-container{margin:-17px 0px 0px 0px;}}/* Start custom CSS for text-editor, class: .elementor-element-ceb3ecb */.bulletDemo {
+    color: #10BBD6;
+    font-size: 28px;
+    position: relative;
+    top: 3px;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-ceb3ecb */.bulletDemo {
+    color: #10BBD6;
+    font-size: 28px;
+    position: relative;
+    top: 3px;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-regular-1.eot');
+	src: url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-regular-1.eot?#iefix') format('embedded-opentype'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-regular-1.woff2') format('woff2'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-regular-1.woff') format('woff'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-regular-1.ttf') format('truetype'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-regular.svg#Gilroy') format('svg');
+}
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-medium.eot');
+	src: url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-medium.eot?#iefix') format('embedded-opentype'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-medium.woff2') format('woff2'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-medium.woff') format('woff'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-medium.ttf') format('truetype'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-medium.svg#Gilroy') format('svg');
+}
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-light.eot');
+	src: url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-light.eot?#iefix') format('embedded-opentype'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-light.woff2') format('woff2'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-light.woff') format('woff'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-light.ttf') format('truetype'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-light.svg#Gilroy') format('svg');
+}
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-bold.eot');
+	src: url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-bold.eot?#iefix') format('embedded-opentype'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-bold.woff2') format('woff2'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-bold.woff') format('woff'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-bold.ttf') format('truetype'),
+		url('https://www.uplead.com/wp-content/uploads/2018/08/gilroy-bold-1.svg#Gilroy') format('svg');
+}
+/* End Custom Fonts CSS */
